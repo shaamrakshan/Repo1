@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is EE95-C627
+
+ Directory of E:\GIT\MyProject
+
+21-04-18  17:53    <DIR>          .
+21-04-18  17:53    <DIR>          ..
+21-04-18  17:53                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  304,148,402,176 bytes free
